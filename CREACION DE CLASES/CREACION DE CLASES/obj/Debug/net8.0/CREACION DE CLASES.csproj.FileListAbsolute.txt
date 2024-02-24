@@ -1,0 +1,14 @@
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\bin\Debug\net8.0\CREACION DE CLASES.exe
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\bin\Debug\net8.0\CREACION DE CLASES.deps.json
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\bin\Debug\net8.0\CREACION DE CLASES.runtimeconfig.json
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\bin\Debug\net8.0\CREACION DE CLASES.dll
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\bin\Debug\net8.0\CREACION DE CLASES.pdb
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\CREACION DE CLASES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\CREACION DE CLASES.AssemblyInfoInputs.cache
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\CREACION DE CLASES.AssemblyInfo.cs
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\CREACION DE CLASES.csproj.CoreCompileInputs.cache
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\CREACION DE CLASES.dll
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\refint\CREACION DE CLASES.dll
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\CREACION DE CLASES.pdb
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\CREACION DE CLASES.genruntimeconfig.cache
+C:\Users\meam5\source\repos\CREACION DE CLASES\CREACION DE CLASES\obj\Debug\net8.0\ref\CREACION DE CLASES.dll
